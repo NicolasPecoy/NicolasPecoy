@@ -1,4 +1,4 @@
-<img src="https://i.gyazo.com/8fcf68b2d7d7d45ceebe498abab71648.png" alt="banner" />
+<img src="https://i.gyazo.com/d85b378d8fd9386f829598344d992319.png" alt="banner" />
 <h1 align="center">Hi 👋, I'm Nicolás Pecoy</h1>
 <h3 align="center">A passionate frontend developer from Uruguay</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=nicolaspecoy&label=Profile%20views&color=0e75b6&style=flat" alt="placeholderGif" /> </p>

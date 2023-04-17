@@ -1,4 +1,4 @@
-<img src="https://www.ge.com/research/sites/default/files/styles/hero_banner/public/2018-11/landing-technology-domains-capabilities-hero.jpg?itok=gYYh7y_B" alt="banner" height="20%" />
+<img src="https://www.ge.com/research/sites/default/files/styles/hero_banner/public/2018-11/landing-technology-domains-capabilities-hero.jpg?itok=gYYh7y_B" alt="banner" height="100" />
 <h1 align="center">Hi 👋, I'm Nicolás Pecoy</h1>
 <h3 align="center">A passionate frontend developer from Uruguay</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=nicolaspecoy&label=Profile%20views&color=0e75b6&style=flat" alt="placeholderGif" /> </p>

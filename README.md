@@ -1,6 +1,6 @@
 <img src="https://i.gyazo.com/d85b378d8fd9386f829598344d992319.png" alt="banner" />
 <h1 align="center">Hi 👋, I'm Nicolás Pecoy</h1>
-<h3 align="center">A passionate frontend developer from Uruguay</h3>
+<h3 align="center">A passionate developer from Uruguay</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=nicolaspecoy&label=Profile%20views&color=0e75b6&style=flat" alt="placeholderGif" /> </p>
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJkZTgwYTA0YzhjOTYwODVkOWYzNGExODU2NDZjYmYyODMzNDM0MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="nicolaspecoy" /</p>
 

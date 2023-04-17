@@ -1,4 +1,4 @@
-<p align="center"><img src="https://static.vecteezy.com/system/resources/previews/000/677/302/original/abstract-technology-banner-background.jpg" alt="banner" /</p>
+<img src="https://static.vecteezy.com/system/resources/previews/000/677/302/original/abstract-technology-banner-background.jpg" alt="banner" />
 <h1 align="center">Hi 👋, I'm Nicolás Pecoy</h1>
 <h3 align="center">A passionate frontend developer from Uruguay</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=nicolaspecoy&label=Profile%20views&color=0e75b6&style=flat" alt="placeholderGif" /> </p>

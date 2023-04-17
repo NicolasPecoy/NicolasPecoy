@@ -1,6 +1,7 @@
+<p align="center"><img src="https://static.vecteezy.com/system/resources/previews/000/677/302/original/abstract-technology-banner-background.jpg" alt="banner" /</p>
 <h1 align="center">Hi 👋, I'm Nicolás Pecoy</h1>
 <h3 align="center">A passionate frontend developer from Uruguay</h3>
-<p> <img src="https://komarev.com/ghpvc/?username=nicolaspecoy&label=Profile%20views&color=0e75b6&style=flat" alt="nicolaspecoy" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=nicolaspecoy&label=Profile%20views&color=0e75b6&style=flat" alt="placeholderGif" /> </p>
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJkZTgwYTA0YzhjOTYwODVkOWYzNGExODU2NDZjYmYyODMzNDM0MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="nicolaspecoy" /</p>
 
 - 🔭 I’m currently working on [Invenzis_ChatBot](https://github.com/NicolasPecoy/Invenzis-Chat)

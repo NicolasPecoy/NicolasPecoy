@@ -25,10 +25,72 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolaspecoy&show_icons=true&locale=en&layout=compact" alt="nicolaspecoy" /></p>
+<div align = "center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolaspecoy&show_icons=true&locale=en" alt="nicolaspecoy" /></p>
+<h3>Connect with me:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolaspecoy&" alt="nicolaspecoy" /></p>
+<p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolaspecoy" alt="nicolaspecoy" /></a> </p>
+<a href="https://twitter.com/nicolaspecoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicolaspecoy" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/nicolás-pecoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolás-pecoy" height="30" width="40" /></a>
+
+</p>
+
+</div>
+
+<!-- Statistics -->
+
+
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+
+<!-- Begin Stats Cards -->
+
+<!-- Resources:  -->
+
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats -->
+
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+
+<!-- Change the value after ?username= to your GitHub username. -->
+
+<div class="stats" align="center">
+
+
+![NicolasPecoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasPecoy&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NicolasPecoy&count_private=true&theme=algolia&border_radius=20)
+
+
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPecoy&show_icons=true&theme=algolia&border_radius=20) -->
+
+
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPecoy&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+
+
+</div>
+
+<!--  End Stats Cards -->
+
+
+<!-- Begin Footer -->
+<!-- Icons Resources -->
+<!-- https://devicon.dev/ -->
+<div class="footer" align="center" style="margin:15px;">
+    <a href="https://linkedin.com/in/nicolás-pecoy" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40px"/>
+    </a>
+    <a href="mailto:gym4programming@gmail.com" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    </a>
+  <a href="https://twitter.com/nicolaspecoy" target="_blank">
+        <img  style="margin:0 10px 10px 0;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" alt="twitter" width="40px"/>
+    </a>
+</div>
+
+<!-- End Footer -->
